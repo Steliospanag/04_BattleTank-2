@@ -3,4 +3,4 @@ An open-world head-to-head battle tank with simple AI, terrain, explotion, and a
 
 ## Lecture List
 * BT01 Intro, Notes & Assets
-
+* BT02 Game Design Document (GDD)
