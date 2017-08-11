@@ -23,9 +23,9 @@
 /wd4838
 /w44668
 /I "D:\Software\Unreal 4\UE_4.16\Engine\Source"
-/I "D:\Tutorial\Unreal Engine 4\UE4 - Leard C++ and Make Games\Project\BattleTank\Source"
-/I "D:\Tutorial\Unreal Engine 4\UE4 - Leard C++ and Make Games\Project\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank"
-/I "D:\Tutorial\Unreal Engine 4\UE4 - Leard C++ and Make Games\Project\BattleTank\Source\BattleTank"
+/I D:\Software\SourceTree\BattleTank\BattleTank\Source
+/I D:\Software\SourceTree\BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Inc\BattleTank
+/I D:\Software\SourceTree\BattleTank\BattleTank\Source\BattleTank
 /I "D:\Software\Unreal 4\UE_4.16\Engine\Source\Runtime\Core\Public"
 /I "D:\Software\Unreal 4\UE_4.16\Engine\Source\Runtime\Core\Public\Internationalization"
 /I "D:\Software\Unreal 4\UE_4.16\Engine\Source\Runtime\Core\Public\Async"
@@ -317,9 +317,9 @@
 /FI"D:\Software\Unreal 4\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Yu"D:\Software\Unreal 4\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h"
 /Fp"D:\Software\Unreal 4\UE_4.16\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.pch"
-"D:\Tutorial\Unreal Engine 4\UE4 - Leard C++ and Make Games\Project\BattleTank\Source\BattleTank\BattleTank.cpp"
-/FI"D:\Tutorial\Unreal Engine 4\UE4 - Leard C++ and Make Games\Project\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h"
-/Fo"D:\Tutorial\Unreal Engine 4\UE4 - Leard C++ and Make Games\Project\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.cpp.obj"
+"D:\Software\SourceTree\BattleTank\BattleTank\Source\BattleTank\BattleTank.cpp"
+/FI"D:\Software\SourceTree\BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\Definitions.BattleTank.h"
+/Fo"D:\Software\SourceTree\BattleTank\BattleTank\Intermediate\Build\Win64\UE4Editor\Development\BattleTank\BattleTank.cpp.obj"
 /TP
 /GR-
 /W4
